@@ -24,6 +24,8 @@ Given a set of cities and the distances between them, the objective is to find t
 
 TSP is classified as an **NP-hard problem**, meaning that finding the exact optimal solution becomes very difficult as the number of cities increases. Therefore, metaheuristic algorithms are commonly used to find good approximate solutions within reasonable time.
 
+---
+
 # A. Requirements & Installation
 
 This project was developed and executed entirely using **Google Colab**, so no local installation is required.
