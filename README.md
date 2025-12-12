@@ -1,5 +1,5 @@
 # Metaheuristic Optimization Project (CS467)
----
+
 ## Project Description
 This project aims to solve the **Traveling Salesman Problem (TSP)** using two metaheuristic optimization algorithms:
 
