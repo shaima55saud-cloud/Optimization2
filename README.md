@@ -116,7 +116,7 @@ The execution stops when one of the following conditions is met:
 ## How to Run
 1. Open the desired notebook in Google Colab:
    - `Simulated_Annealing.ipynb` or
-   - `GA with conv graph.ipynb`
+   - `GA.ipynb`
 2. Upload the dataset file (e.g., `berlin52.tsp`) if required.
 3. Run all cells using **Runtime → Run all**.
 4. The results and convergence graphs will be displayed automatically.
