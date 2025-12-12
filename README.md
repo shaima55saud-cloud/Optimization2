@@ -41,6 +41,8 @@ The `tsplib95` library is used to load and read TSP datasets in TSPLIB format.
 
 No additional setup, package installation, or environment configuration is needed beyond what Google Colab provides by default.
 
+---
+
 ## Dataset
 This project uses a benchmark dataset from **TSPLIB**, which is a well-known library of standard test problems for the Traveling Salesman Problem (TSP).
 
@@ -50,6 +52,8 @@ Using a standard dataset helps ensure that the comparison between Simulated Anne
 
 Example dataset used in this project:
 - `berlin52.tsp`
+
+---
 
 ## Algorithms Used
 
@@ -87,6 +91,8 @@ How it works:
 
 Tournament Selection is chosen because it is simple, efficient, and reduces premature convergence.
 
+---
+
 ## Stopping Conditions
 Each algorithm is executed using predefined stopping conditions to ensure fair comparison.
 
@@ -94,12 +100,15 @@ The execution stops when one of the following conditions is met:
 - A maximum number of iterations or generations is reached
 - No significant improvement is observed for a predefined number of iterations
 
+---
+
 ## Project Structure
 ├── Simulated_Annealing.ipynb
 ├── GA.ipynb
 ├── README.md
 └── dataset/
     └── berlin52.tsp
+---
 
 ## How to Run
 1. Open the desired notebook in Google Colab:
@@ -109,6 +118,8 @@ The execution stops when one of the following conditions is met:
 3. Run all cells using **Runtime → Run all**.
 4. The results and convergence graphs will be displayed automatically.
 
+---
+
 ## Results
 The performance of Simulated Annealing and Genetic Algorithm is evaluated based on:
 - Best tour distance
@@ -116,6 +127,8 @@ The performance of Simulated Annealing and Genetic Algorithm is evaluated based 
 - Execution time
 
 In general, Genetic Algorithm achieves better solution quality due to population diversity, while Simulated Annealing provides faster execution with simpler configuration.
+
+---
 
 ## Notes
 - Due to the stochastic nature of both algorithms, results may vary between runs.
