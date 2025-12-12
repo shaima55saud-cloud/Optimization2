@@ -1,6 +1,6 @@
 # Metaheuristic Optimization Project (CS467)
 ## Metaheuristic Optimization for the Traveling Salesman Problem (TSP)
-- CS467 – Course Project
+CS467 – Course Project
 
 
 ## Project Description
