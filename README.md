@@ -2,7 +2,6 @@
 ## Metaheuristic Optimization for the Traveling Salesman Problem (TSP)
 CS467 – Course Project
 
----
 
 ## Project Description
 This project aims to solve the **Traveling Salesman Problem (TSP)** using two metaheuristic optimization algorithms:
