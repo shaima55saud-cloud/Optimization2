@@ -57,7 +57,7 @@ Example dataset used in this project:
 
 ## Algorithms Used
 
-### Simulated Annealing (SA)
+### 1. Simulated Annealing (SA)
 Simulated Annealing is a **single-solution optimization algorithm** inspired by the physical process of annealing metals.
 
 How it works:
@@ -71,7 +71,10 @@ How it works:
 - Simple to implement
 - Fast execution
 - Able to escape local minima
-### Genetic Algorithm (GA)
+
+---
+
+### 2. Genetic Algorithm (GA)
 The Genetic Algorithm is a **population-based optimization algorithm** inspired by natural evolution.
 
 How it works:
