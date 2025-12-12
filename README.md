@@ -105,14 +105,6 @@ The execution stops when one of the following conditions is met:
 
 ---
 
-## Project Structure
-├── Simulated_Annealing.ipynb
-├── GA.ipynb
-├── README.md
-└── dataset/
-    └── berlin52.tsp
----
-
 ## How to Run
 1. Open the desired notebook in Google Colab:
    - `Simulated_Annealing.ipynb` or
